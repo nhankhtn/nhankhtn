@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Facebook: [Nhân Duy](https://www.facebook.com/loi.tai.toi.2)
+- Linkedln: [Nhân Duy](www.linkedin.com/in/duy-nhan-ngo-nguyen-22278230b)
+- Resume: [Resume](https://github.com/nhankhtn/ngonguyenduynhan/blob/main/Resume.pdf)
