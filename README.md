@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - Linkedln: [Nhân Duy](www.linkedin.com/in/duy-nhan-ngo-nguyen-22278230b)
 - Resume: [Resume](https://github.com/nhankhtn/nhankhtn/blob/main/Resume.pdf)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhankhtn&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhankhtn&layout=compact" alt="Top Langs">
+</div>
