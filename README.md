@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - Facebook: [Nhân Duy](https://www.facebook.com/loi.tai.toi.2)
 - Linkedln: [Nhân Duy](www.linkedin.com/in/duy-nhan-ngo-nguyen-22278230b)
 - Resume: [Resume](https://github.com/nhankhtn/nhankhtn/blob/main/Resume.pdf)
-- 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhankhtn&layout=compact)
